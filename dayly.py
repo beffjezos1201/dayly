@@ -303,7 +303,7 @@ def recommend_schedule(
 
 # --- Main Execution ---
 if __name__ == "__main__":
-    csv_file_path = 'C:/Users/YourName/data.csv' # ENTER YOUR CSV FILE PATH HERE
+    csv_file_path = 'C:/Users/YourUserame/example_data.csv' # Example path
 
     user_date = None
     day_today = ""
