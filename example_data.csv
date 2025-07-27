@@ -1,0 +1,33 @@
+date,day_of_week,event_name,start_time,end_time
+2024-07-01,Monday,Team Meeting,09:00,09:15
+2024-07-01,Monday,Code,09:30,12:00
+2024-07-01,Monday,Lunch Break,12:00,13:00
+2024-07-01,Monday,Practice Piano,14:00,15:00
+2024-07-01,Monday,Process Emails,15:00,16:00
+2024-07-01,Monday,Gym Workout,18:00,19:00
+2024-07-02,Tuesday,Write Report,09:30,11:30
+2024-07-02,Tuesday,Coffee Break,11:30,11:45
+2024-07-02,Tuesday,Lunch Break,12:00,13:00
+2024-07-02,Tuesday,Hobby Project,13:30,14:30
+2024-07-02,Tuesday,Basketball Class,14:30,16:00
+2024-07-03,Wednesday,Gym Workout,09:15,10:00
+2024-07-03,Wednesday,Study,10:00,11:00
+2024-07-03,Wednesday,Lunch Break,12:00,13:00
+2024-07-03,Wednesday,Meeting,14:00,15:30
+2024-07-03,Wednesday,Process Emails,15:30,17:00
+2024-07-04,Thursday,Code Review,09:30,11:00
+2024-07-04,Thursday,Lunch Break,12:00,13:00
+2024-07-04,Thursday,Research Topic,14:00,16:00
+2024-07-04,Thursday,Meditation Session,17:30,18:30
+2024-07-05,Friday,Team Meeting,09:00,09:15
+2024-07-05,Friday,Basketball Class,09:15,11:30
+2024-07-05,Friday,Lunch Break,12:00,13:00
+2024-07-05,Friday,Planning for Next Week,15:00,17:00
+2024-07-06,Saturday,Personal Errands,10:00,12:00
+2024-07-06,Saturday,Hobby Project,13:00,16:00
+2024-07-07,Sunday,Relax,14:00,16:00
+2024-07-11,Monday,Team Meeting,10:00,11:15
+2024-07-11,Monday,Code,11:30,12:00
+2024-07-11,Monday,Lunch Break,12:00,13:00
+2024-07-11,Monday,Practice Piano,16:00,17:00
+2024-07-11,Monday,Gym Workout,18:00,19:00
